@@ -1,4 +1,4 @@
-<h1>Tutorial for building Deep Learning models using Keras toolkit</h1>
+<h1>Tutorial for building neural network models using Keras toolkit</h1>
 
 <h4>Dataset</h4>
 <ul>
